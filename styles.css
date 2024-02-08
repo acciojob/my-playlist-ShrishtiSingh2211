@@ -12,7 +12,7 @@ div{
 	background-color:white;
 	border:1px solid black;
 }
-player_one,player_two{
+.player_one,.player_two{
 	background-color: rgb(255, 255, 255);
 	padding:10px; 
 	border-radius:10px;
